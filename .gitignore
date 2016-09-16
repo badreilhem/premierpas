@@ -1,0 +1,7 @@
+Makefile
+manifest
+README.txt
+bin/*
+docs/*
+
+
