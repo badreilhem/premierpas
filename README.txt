@@ -1,7 +1,7 @@
 Authors :
 Honoré Nintunze, Shijin Xu and Xavier Van De Woestyne
 
-[![Build Status](https://travis-ci.org/nash403/odeva_projetTest.svg?branch=master)](https://travis-ci.org/nash403/odeva_projetTest)
+
 
 This project is a simulation of swimmers going to the swimming pool
 and needing resources to perform some actions in a certain order.
